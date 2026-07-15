@@ -56,7 +56,15 @@ Character Journal was created to become that place.
 
 # 🚀 Download
 
-Download the latest version from the **Releases** page.
+<p align="center">
+
+<a href="https://github.com/Mach21st/Character-Journal/releases/tag/v1.0.0">
+
+<img src="https://img.shields.io/badge/Download-Latest%20Release-7C3AED?style=for-the-badge">
+
+</a>
+
+</p>
 
 ---
 
