@@ -36,7 +36,8 @@ Every page becomes a snapshot of your inspiration.
 
 ### Home
 
-![Home](images/home.png)
+![Home](<img width="850" height="1360" alt="Homepage-fotor-2026071512253" src="https://github.com/user-attachments/assets/a78d51d5-8c07-438e-a5c2-fee7e20dfcd8" />
+)
 
 ### Character Page
 
