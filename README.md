@@ -31,9 +31,7 @@ Every page becomes a snapshot of your inspiration.
 
 ---
 
-# 📸 Screenshots
-
-<h2 align="center">✨ Preview</h2>
+<h2 align="center">✨ Take a look inside</h2>
 
 <p align="center">
   <img src="images/home.png" width="45%" />
