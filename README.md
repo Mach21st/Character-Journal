@@ -36,16 +36,15 @@ Every page becomes a snapshot of your inspiration.
 
 ### Home
 
-![Home](<img width="850" height="1360" alt="Homepage-fotor-2026071512253" src="https://github.com/user-attachments/assets/a78d51d5-8c07-438e-a5c2-fee7e20dfcd8" />
-)
+<img width="850" height="1360" alt="Homepage-fotor-2026071512253" src="https://github.com/user-attachments/assets/e33c39e0-af01-448c-b14f-d1ae69824f13" />
 
 ### Character Page
 
-![Character](images/character.png)
+<img width="850" height="1360" alt="Gambit-fotor-2026071512144" src="https://github.com/user-attachments/assets/ba72cc2b-6e9c-4e14-86c1-89c5b3e28eba" />
 
 ### Portrait Library
 
-![Portrait Library](images/library.png)
+<img width="820" height="424" alt="Portrait-fotor-2026071512357" src="https://github.com/user-attachments/assets/33136b4a-bbb0-40a5-a60a-13ba41a3092b" />
 
 ---
 
